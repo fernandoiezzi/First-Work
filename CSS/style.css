@@ -98,7 +98,7 @@ button:active{
 
 .logotipo{
     margin-left:-44%;
-    padding-right: 32%;
+    padding-right: 24.5%;
     
 }
 
@@ -205,4 +205,15 @@ textarea{
     padding-top:1%;
     margin-right: 11%;
     padding-bottom:4%;
+}
+
+.maincontentloginempresa{
+    margin-left:17%;
+    margin-bottom:3%;
+    margin-top: 4%;
+    margin-right: 16%;
+    background:linear-gradient(rgba(17, 17, 17, 0.685), rgba(17, 17, 17, 0.685)), url(../img/Free_business-2016_High_Quality_HD_Wallpaper_1366x768.jpg);
+    background-repeat:no-repeat;
+    background-size: 900px 900px;
+    border-style: outset;
 }
