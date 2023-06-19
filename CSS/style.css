@@ -256,3 +256,15 @@ textarea{
     display:grid;
     position:static;
 }
+
+.candidatar{
+    width:150px;
+    height: 50px;
+    margin-left:20%;
+    background-color:rgba(252, 250, 250, 0.925);
+    border-style:outset;
+}
+
+.textvaga{
+    margin-right:19%;
+}
